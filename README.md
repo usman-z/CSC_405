@@ -4,7 +4,10 @@
 TBA
 
 ## Collaborators
-* Gene Pressinger
-* Usman Zia
 * Danial Afzal
 * Johannes Kaendler
+* Gene Pressinger
+* Richard Schroeders
+* Usman Zia
+
+
