@@ -1,6 +1,5 @@
 # Task 2
-I will be taking on the enrichment dataset called "Employment Dataset".  
-I will read the data descriptions and understand the variables present in this dataset.  
+I will read the data descriptions and understand the variables present in the enrichment dataset called Employment Dataset.  
 
 # Task 3
 I will calculate COVID-19 data trends for the last week of the data, Are the cases Increasing, Decreasing, or Stable? The State I choose to analyze is ...  
