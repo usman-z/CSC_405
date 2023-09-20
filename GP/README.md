@@ -3,4 +3,5 @@
 
 **Dataset:** [president_county_candidate.csv](https://github.com/usman-z/CSC_405/blob/main/GP/election_data/president_county_candidate.csv)
 ## Documents
-[Task 2 Report](https://github.com/usman-z/CSC_405/blob/main/GP/Task2.md)
+[Task 2 Report](https://github.com/usman-z/CSC_405/blob/main/GP/Task2/README.md)
+[Task 3 Report](https://github.com/usman-z/CSC_405/blob/main/GP/Task3/README.md)
