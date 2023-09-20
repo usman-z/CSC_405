@@ -13,7 +13,7 @@
 
 ## Description
 
-Our goal for Project Stage I is to get acquainted with and understand different datasets. 
+Our goal for Project Stage I is to get acquainted with and understand different datasets.  
 Our goal for Project Stage II is Data Modeling  
 Our goal for Project Stage III is Distributions and Hypothesis Testing  
 Our goal for Project Stage IV is Basic Machine Learning  
