@@ -10,7 +10,7 @@
 
 **How can you merge the data with the primary COVID-19 dataset? Identify the individual variable which map between the datasets.**
 
-The essential variable that links the two datasets together is the county column in the secondary dataset and the County column in the primary COVID-19 dataset. These columns likely contain county names or identifiers that are shared between the datasets. By specifying these columns as the keys for our merge operation, we consolidate the data based on a common geographical reference.
+The essential variable that links the two datasets together is the `county` column in the secondary dataset and the `county` column in the primary COVID-19 dataset. These columns likely contain county names or identifiers that are shared between the datasets. By specifying these columns as the keys for our merge operation, we consolidate the data based on a common geographical reference.
 
 **Describe how your enrichment data can help in the analysis of COVID-19 spread. Post initial hypothesis questions.**
 
